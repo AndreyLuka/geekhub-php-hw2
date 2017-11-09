@@ -1,6 +1,6 @@
 {
-    "name": "luka/geekhub-php-hw2",
-    "description": "Geekhub PHP HomeWork#2",
+    "name": "luka/geekhub-php-composer",
+    "description": "Geekhub PHP HomeWork#2: Composer",
     "type": "project",
     "license": "MIT",
     "authors": [
